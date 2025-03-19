@@ -2,7 +2,7 @@
 # 📌 Predição do Rendimento da Safra 🌾  
 
 ## 📖 Descrição do Projeto  
-Este projeto faz parte da **Fase 4 - Modelagem de Dados com Regressão Supervisionada** e tem como objetivo prever o rendimento da safra a partir de variáveis climáticas e condições do solo.  
+Este projeto faz parte da **Fase 5 - Modelagem de Dados com Regressão Supervisionada** e tem como objetivo prever o rendimento da safra a partir de variáveis climáticas e condições do solo.  
 
 Utilizamos técnicas de **Análise Exploratória de Dados (EDA)**, **Clusterização** e **Modelagem Preditiva** para entender os padrões nos dados e construir modelos de Machine Learning.
 
