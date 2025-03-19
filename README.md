@@ -1,6 +1,5 @@
-
-# Entregavel 1
-# 📌 Predição do Rendimento da Safra 🌾
+# Entregável 1  
+# 📌 Predição do Rendimento da Safra 🌾  
 
 ## 📖 Descrição do Projeto  
 Este projeto faz parte da **Fase 4 - Modelagem de Dados com Regressão Supervisionada** e tem como objetivo prever o rendimento da safra a partir de variáveis climáticas e condições do solo.  
@@ -41,6 +40,38 @@ Caso queira rodar o notebook no seu próprio ambiente:
    ```bash
    jupyter notebook Wellington_pbl_fase4.ipynb
    ```  
+
+---  
+
+# Entregável 2  
+# ☁️ Estimativa de Custos AWS para Hospedagem da API  
+
+## 📌 Requisitos  
+A estimativa de custos foi realizada utilizando a **Calculadora da AWS**, considerando a seguinte configuração para a hospedagem da API:  
+
+- **2 vCPUs**  
+- **1 GiB de memória**  
+- **Até 5 Gigabit de rede**  
+- **50 GB de armazenamento (HD)**  
+
+## 📊 Comparação de Custos (On-Demand – 100%)  
+
+| Região           | Custo da Instância (730h/mês) | Armazenamento (50GB) | Custo Total Mensal |
+|----------------|----------------------------|----------------------|------------------|
+| **Virgínia do Norte (us-east-1)** | $33,87 | $5,00 | **$38,87** |
+| **São Paulo (sa-east-1)** | $39,06 | $6,00 | **$45,06** |
+
+- **A opção mais econômica** é a **região da Virgínia do Norte**, com um custo total de **$38,87/mês**, enquanto a região de **São Paulo** custa **$45,06/mês**.  
+
+## 🔍 Considerações sobre Restrições Legais e Acesso aos Dados  
+- **Se houver necessidade de armazenar os dados no Brasil** por **restrições legais**, a opção de São Paulo é a mais adequada.  
+- **Se o objetivo for reduzir custos e a latência não for um problema**, a **Virgínia do Norte é a melhor escolha**.  
+
+## 📌 Conclusão  
+Se não houver exigências legais para armazenar os dados no Brasil, **hospedar a instância na Virgínia do Norte é mais econômico**.  
+Porém, caso seja necessário um acesso rápido aos dados coletados no Brasil, **a opção de São Paulo pode ser justificada** mesmo com um custo maior.  
+
+🔗 **Referência:** [AWS Pricing Calculator](https://calculator.aws/#/)  
 
 ---  
 📅 **Entrega Fase 4 - Modelagem de Dados com Regressão Supervisionada**  
