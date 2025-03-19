@@ -1,3 +1,5 @@
+
+# Entregavel 1
 # 📌 Predição do Rendimento da Safra 🌾
 
 ## 📖 Descrição do Projeto  
@@ -41,5 +43,4 @@ Caso queira rodar o notebook no seu próprio ambiente:
    ```  
 
 ---  
-📌 **Autor:** Wellington  
 📅 **Entrega Fase 4 - Modelagem de Dados com Regressão Supervisionada**  
