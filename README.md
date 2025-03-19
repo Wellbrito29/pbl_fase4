@@ -10,6 +10,7 @@ Utilizamos técnicas de **Análise Exploratória de Dados (EDA)**, **Clusteriza�
 Clique no link abaixo para abrir o notebook diretamente no Google Colab:  
 
 🔗 **[Abrir no Colab](https://colab.research.google.com/drive/1SS8zWIDoqEoF_d_DnROrxCq0Kj2wsN4u#scrollTo=514cb14e)**  
+  **[Link video](https://www.loom.com/share/fc7cc47a851a49838e0ce55b8678849e?sid=68c48e4e-e38c-4db5-8adc-0eebc094dc93)**
 
 ## 📂 Estrutura do Projeto  
 ```
